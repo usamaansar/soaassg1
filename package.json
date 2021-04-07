@@ -1,0 +1,17 @@
+{
+  "name": "nodeassignment1soa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-app.js",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Usama Ansar",
+  "license": "ISC"
+}
